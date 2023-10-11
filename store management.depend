@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1588855695 source:c:\users\p. namasivayam\desktop\store management\date.cpp
+	<iostream>
+	"date.h"
+
+1589005273 c:\users\p. namasivayam\desktop\store management\date.h
+
+1589856729 source:c:\users\p. namasivayam\desktop\store management\main.cpp
+	<iostream>
+	<fstream>
+	"productdetails.h"
+	<stdlib.h>
+	"inventoryorderdetail.h"
+	"customerlistbill.h"
+	<string.h>
+	<conio.h>
+
+1589025383 c:\users\p. namasivayam\desktop\store management\productdetails.h
+	"date.h"
+
+1588659690 source:c:\users\p. namasivayam\desktop\store management\person.cpp
+	<iostream>
+	"person.h"
+
+1589025638 c:\users\p. namasivayam\desktop\store management\person.h
+
+1589857545 source:c:\users\p. namasivayam\desktop\store management\customerlistbill.cpp
+	<iostream>
+	"customerlistbill.h"
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1589855085 c:\users\p. namasivayam\desktop\store management\customerlistbill.h
+	"stockdetails.h"
+	"date.h"
+	"person.h"
+
+1589025477 c:\users\p. namasivayam\desktop\store management\stockdetails.h
+	"productdetails.h"
+
+1589855745 source:c:\users\p. namasivayam\desktop\store management\inventoryorderdetails.cpp
+	<iostream>
+	"inventoryorderdetail.h"
+	<fstream>
+
+1589026174 c:\users\p. namasivayam\desktop\store management\inventoryorderdetail.h
+	"stockdetails.h"
+	"person.h"
+
+1589007504 source:c:\users\p. namasivayam\desktop\store management\productdetails.cpp
+	<iostream>
+	"productdetails.h"
+
+1589006842 source:c:\users\p. namasivayam\desktop\store management\stockdetails.cpp
+	<iostream>
+	"stockdetails.h"
+
